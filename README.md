@@ -10,11 +10,11 @@
 
 二.创建一个数据库
 1. 创建一个数据库,新建网站
-![输入图片说明](6.png)
+!(https://github.com/hongzhouxiao/-/blob/main/directory/13.png)
 
 三.运行网站
 ### 175.178.226.232/install
-![输入图片说明](12.png)
+!(https://github.com/hongzhouxiao/-/blob/main/directory/12.png)
 
 四. 登录后台
 1. 新建商城列表
