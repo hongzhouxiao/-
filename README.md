@@ -4,13 +4,13 @@
 一. 安装宝塔
 1. 商城源码下载（又称后端、服务端，PHP开发 用于管理后台和提供api接口）
 2. 上传文件并解压
-![Image text](New-Media-Products/directory/13.png)
+![Image](New-Media-Products/directory/13.png)
 3. 将后端源码上传至服务器站点，并且将站点运行目录设置为/public (删除user.ini)
 4. 根据页面提示完成安装
 
 二.创建一个数据库
 1. 创建一个数据库,新建网站
-!(https://github.com/hongzhouxiao/-/blob/main/directory/13.png)
+![Image](New-Media-Products/directory/6.png)
 
 三.运行网站
 ### 175.178.226.232/install
